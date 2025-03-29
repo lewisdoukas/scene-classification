@@ -2,7 +2,7 @@
 
 This repository created for the purpose of creating a model to classify aerial image scenes of critical infrastructure.  
 Currently trained and validated on AID dataset using VGG-16, ResNet-50, ViT and a hybrid model ResNet-50 + ViT yielding results of around 99% accuracy.  
-More information can be found in the attached report ("AID_SceneClassification_Report.pdf") in Greek.
+More information can be found in the attached [Report](https://github.com/lewisdoukas/scene-classification/blob/main/assets/AID_SceneClassification_Report.pdf) in Greek.
 
 ## ⛁ Data
 
